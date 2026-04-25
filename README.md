@@ -1,2 +1,2 @@
-# Bibo-AI-Agent
+# c1anci-AI-Agent
 Digital AI Agent using budget friendly hardware
